@@ -1,7 +1,7 @@
 
 
 
-##Getting started:
+## Getting started:
 
 Huge range of tutorials and resources online:
 + thingiverse.com
@@ -12,7 +12,7 @@ These are places where the people have battle-tested, and explain how this speci
 
 Make sure you are also exploring the design thinking. How does what you are thinking about fit into the creative process.
 
-##Resources:
+## Resources:
 
 - 3D Hubs: https://www.3dhubs.com - Local 3D printing services online
 
