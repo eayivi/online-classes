@@ -1,39 +1,38 @@
-Node JS study Playbook
+# Node JS study Playbook
 
-- Use TypeScript
+> Use TypeScript 
 
-https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them
-
+- https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them
 - http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 - http://expressjs.com/en/starter/generator.html
 - http://expressjs.com/en/starter/faq.html
 
 
-Getting Started With NodeJS (Part 1)
+### Getting Started With NodeJS (Part 1)
 [Learn how to set up and launch a Node server]
 http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
 
-Getting Started With NodeJS(Part 2)
+### Getting Started With NodeJS(Part 2)
 [Covers more routing details, mongoDB (without mongoose), and jade]
 http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 
 
-Authentication using Passport.js
+### Authentication using Passport.js
 https://scotch.io/tutorials/easy-node-authentication-setup-and-local
 http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/
 
-Socket.io & Express
+### Socket.io & Express
 http://www.danielbaulig.de/socket-ioexpress/
 http://stackoverflow.com/questions/25532692/how-to-share-sessions-with-socket-io-1-x-and-express-4-x/25618636#25618636
 
 
-Mongoose
+### Mongoose
 http://mongoosejs.com/docs/api.html
 
-MongoDB
+### MongoDB
 http://docs.mongodb.org/manual/
 
-Jade
+### Jade
 http://jade-lang.com/reference/
 
 HTML to Jade Converter
@@ -46,7 +45,7 @@ http://www.integratedwebsystems.com/hosting-a-nodejs-express-application-on-amaz
 
 Javascript, then node, then exress, then kraken
 
-###Javascript:
+## Javascript:
     - Use Typescript
     - https://www.quora.com/How-much-JavaScript-should-I-know-in-order-to-learn-Node-js:
         - Better understand important concepts in javascript like scope, event driven programming, async, callback, design patterns will help you to write better code.
